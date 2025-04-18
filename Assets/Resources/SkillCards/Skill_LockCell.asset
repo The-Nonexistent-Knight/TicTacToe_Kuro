@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3258db51129c5824d96e4b6037204c48, type: 3}
+  m_Name: Skill_LockCell
+  m_EditorClassIdentifier: 
+  skillName: "\u5C01\u683C\u7981\u5236"
+  energyCost: 2
+  description: "\u968F\u673A\u5C01\u9501\u68CB\u76D8\u4E0A\u7684\u4E00\u4E2A\u683C\u5B50\uFF0CAI\u4E0B\u4E00\u6B65\u5C06\u65E0\u6CD5\u843D\u5728\u8BE5\u683C\u5B50(\u4F46\u4F60\u53EF\u4EE5)"
+  icon: {fileID: 0}
+  effectType: 5
