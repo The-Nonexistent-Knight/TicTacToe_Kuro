@@ -1,10 +1,10 @@
 - # 井字棋技能版 - 游玩说明
-
+  ##场景位于Assets\Scenes中，名称为SampleScene，请打开该场景试玩##
   本项目为一个基于 Unity 开发的技能版井字棋游戏，加入了能量系统与多种技能卡。
 
   > ⚠️ **重要提示：首次打开项目后请确保 DOTween 插件已正确导入并初始化，否则UI可能出现异常。**
   > 在 Unity 菜单栏中点击 `Tools > Demigiant > DOTween Utility Panel`，然后点击 `Setup DOTween...` 即可完成初始化。
-  **场景位于Assets\Scenes中，名称为SampleScene，请打开该场景试玩**
+ 
   ## 基本玩法
   - 玩家（X）与 AI（O）轮流在 3x3 棋盘上落子
   - 玩家手牌中有三张随机的技能卡，可使用技能卡造成特定效果（消耗能量）
